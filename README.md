@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Beatriz Cabrini
+- 👀 I am interested in improving my programming studies
+- 🌱 I'm currently learning Python, JavaScript, Java and OCI.
+- 📫 📫 README is still being edited, I'm adding all the networks.
